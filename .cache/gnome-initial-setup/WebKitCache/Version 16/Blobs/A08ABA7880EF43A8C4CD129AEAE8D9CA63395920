@@ -1,0 +1,34 @@
+this._G=this._G||{};(function(_){var window=this;
+try{
+_.Tjb=function(a,b){return(0,_.D)(b?_.Sjb(a,b):_.J("yd","")(null,a))};
+_.H("yd","",0,function(a,b){a="";var c='Publicamos las <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("dvTNWc")+'">Condiciones del Servicio de Google</a> para que sepas qu\u00e9 esperar cuando uses nuestros servicios. Al hacer clic en "Acepto", confirmas estas condiciones.');c=(0,_.K)(c);a+=_.W({id:"XFFfAjryY6A=",Ja:c});a=""+_.T({text:(0,_.K)(a)},b);c="";var d=_.Y(new _.X("{VIEWER_GENDER,select, female{Tambi\u00e9n aceptas las {START_LINK}Condiciones del Servicio de Google\u00a0Play{END_LINK} para permitir el descubrimiento y la administraci\u00f3n de apps.}male{Tambi\u00e9n aceptas las {START_LINK}Condiciones del Servicio de Google\u00a0Play{END_LINK} para permitir el descubrimiento y la administraci\u00f3n de apps.}other{Tambi\u00e9n aceptas las {START_LINK}Condiciones del Servicio de Google\u00a0Play{END_LINK} para permitir el descubrimiento y la administraci\u00f3n de apps.}}"),{VIEWER_GENDER:"other",
+START_LINK:'<a jsname="'+_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("DaaeSd")+'">',END_LINK:"</a>"});d=(0,_.K)(d);c+=_.W({id:"UpmUvzm8N0Y=",Ja:d});a+=_.T({text:(0,_.K)(c)},b);c="";d='Adem\u00e1s, debes recordar que la <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidad</a> de Google describe la manera en la que manejamos la informaci\u00f3n que se genera cuando usas nuestros servicios. Puedes visitar tu Cuenta de Google (account.google.com) en cualquier momento para realizar la Verificaci\u00f3n de privacidad o ajustar los controles relacionados.');
+d=(0,_.K)(d);c+=_.W({id:"R0MVauKaZ8Y=",Ja:d});a+=_.T({text:(0,_.K)(c)},b);b=""+_.V({Ob:(0,_.Gu)('tabindex="0"'),Fa:"q8bnUb",details:(0,_.K)(a)},b);return(0,_.D)(b)});
+_.Sjb=function(a,b,c){var d='tabindex="0" title="',e="Al continuar, aceptas las Condiciones del Servicio, y declaras que le\u00edste la Pol\u00edtica de Privacidad en representaci\u00f3n de "+_.L(b);d+=String(e).replace(_.Iu,_.tu);d+='"';e="";c?(b="Para agregar a "+_.E(b)+' a este dispositivo, primero acepta la <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidad</a> y las <a jsname="')+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+
+_.L("dvTNWc")+'">Condiciones del Servicio</a> <span>en nombre de ')+_.av(_.E(c))+".</span>",e+=b):(b="Para agregar a "+_.E(b)+' a este dispositivo, primero acepta la <a jsname="'+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("EP6M6")+'">Pol\u00edtica de Privacidad</a> y las <a jsname="')+(_.L("zfkP9b")+'" href="" role="button" data-open-in-iframe="'+_.L("dvTNWc")+'">Condiciones del Servicio</a> <span>en nombre de tu hijo.</span>'),e+=b);e+=_.J("zd","")({kc:void 0,aC:c},a);c=""+
+_.T({text:(0,_.K)(e)},a);a=""+_.V({Fa:"q8bnUb",Ob:(0,_.Gu)(d),details:(0,_.K)(c)},a);return(0,_.D)(a)};
+_.H("zd","",0,function(a,b){a=a||{};var c=a.kc,d=a.aC;a=_.D;var e=(0,_.K)(""+_.EH({name:"info"},b)),f="";c=null!=c?c:"";d?(c=_.Y(new _.X("{CHILD_GENDER,select, female{La app de Family\u00a0Link permite que {CHILD_NAME_TO_DISPLAY} vea las funciones y los controles que estableciste para ella}male{La app de Family\u00a0Link permite que {CHILD_NAME_TO_DISPLAY} vea las funciones y los controles que estableciste para \u00e9l}other{La app de Family\u00a0Link permite que {CHILD_NAME_TO_DISPLAY} vea las funciones y los controles que le estableciste}}"),{CHILD_GENDER:c,
+CHILD_NAME_TO_DISPLAY:d}),f+=c):(c=_.Y(new _.X("{CHILD_GENDER,select, female{La app de Family\u00a0Link permite que tu hija vea las funciones y los controles que estableciste para ella}male{La app de Family\u00a0Link permite que tu hijo vea las funciones y los controles que estableciste para \u00e9l}other{La app de Family\u00a0Link permite que tu hijo vea las funciones y los controles que le estableciste}}"),{CHILD_GENDER:c}),f+=c);return a(_.FH({items:(0,_.K)(""+_.GH({text:"Se instalar\u00e1 Family\u00a0Link en este dispositivo",
+icon:e,Bi:f},b))},b))});
+
+}catch(e){_._DumpException(e)}
+try{
+var Mtb=function(a){_.A.call(this,a,-1,Ltb)};_.x(Mtb,_.A);var Ltb=[5];Mtb.zb="gf.siesic";
+var Ntb=_.O("iypZne",[_.cQ,_.TH,_.BH,_.wP,_.CE,_.CH]);
+var j4=function(a){_.Z.call(this,a.Ea);this.Da=a.model.signIn;this.ta=a.ia.Hc;this.ja=a.ia.request;this.ha=a.ia.Nd;this.Sa=a.ia.Fj;this.ea=!1};_.x(j4,_.Z);j4.oa=function(){return{model:{signIn:_.UH},ia:{Nd:_.JH,Hc:_.zP,request:_.uF,Fj:_.LH}}};j4.prototype.render=function(){_.Z.prototype.Ta.call(this);_.KH(this.ha,this.wa())};
+var Otb=function(a,b){if(!a.ea){a.ea=!0;b=_.vF(a.ja,"/_/signin/speedbump/embeddedsigninconsent",b,_.Vq);var c=_.Tf("thykhd");c.aa()&&_.Ex(b,{ardt:c});b=a.ja.od(b);_.Ke(b,function(d){this.ea=!1;_.AP(this.ta,this.Na(),this.Da,d)},a);_.ci(b,function(){this.ea=!1;_.S(this.Ga(),"info/unknownerror")},a)}};j4.prototype.Ct=function(){this.Va();var a=new Mtb;a=_.l(a,1,1);a=_.l(a,4,"default");a=_.l(a,3,_.HG(this.Na()));a=_.l(a,2,_.GG(this.Na()));var b=_.lR(this.ha);a=_.xk(a,5,b);Otb(this,a)};
+j4.prototype.It=function(a){_.oR(this.fa,a.aa,{Ue:_.GG(this.Na()),locale:_.HG(this.Na())},this);_.KH(this.ha,this.wa().Ca())};j4.prototype.Az=function(){this.Sa.Fj(this.da,this,!0)};_.Q(j4.prototype,"q86U3e",function(){return this.Az});_.Q(j4.prototype,"AnAMAf",function(){return this.It});_.Q(j4.prototype,"xFj02",function(){return this.Ct});_.Q(j4.prototype,"rcuQ6b",function(){return this.render});_.R(Ntb,j4);
+
+}catch(e){_._DumpException(e)}
+try{
+_.r("signinconsent");
+
+_.RGa.aa({Ua:function(a,b){a=a.ab;var c="",d=a.Ba.wb();d=null==d?null:d.Gc();var e=a.Ba.wb();e=null==e?null:_.Bm(e);c+=_.qQ({Ra:"tHU55c",Qa:"iypZne",Za:"click:AnAMAf(preventDefault=true|zfkP9b);eyyw5c:q86U3e;jiqeKb:xFj02;u3KAb:xFj02;rcuQ6b:rcuQ6b",content:(0,_.K)(""+_.rQ({ka:a.ka,Ad:_.Xu("consent"),Kc:{Qb:null!=d?d:"",identifier:null!=e?e:""},title:(0,_.K)(""+_.E(_.cV(b,a.Ba))),hb:(0,_.K)(""+_.V({details:(0,_.K)(""+_.Tjb(b))},b)),Ya:"Acepto",Db:"signinconsentNext",Fh:"F7TABF8fS3E=",Vb:a.ka.ea()?"No quiero agregar esta cuenta ahora":
+"",hR:a.ka.ea()?"BKj-0xNYQPI=":""},b))},b);return(0,_.D)(c)},Wa:_.DQ({ab:_.LQ}),title:"ignore"});
+
+
+_.u();
+
+}catch(e){_._DumpException(e)}
+})(this._G);
+// Google Inc.
